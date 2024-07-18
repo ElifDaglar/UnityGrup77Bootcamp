@@ -72,7 +72,7 @@ Sprint içi puan değerlendirmesi 85 olarak belirlenmiştir.
 
 
 - **Toplantı ve Whatsapp ScreenShotları:**
-https://imgur.com/a/OdDaoS4
+https://imgur.com/a/bootcampss2-OdDaoS4
 
 
 **Sprint Review**: 
