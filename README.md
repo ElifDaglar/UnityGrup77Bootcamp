@@ -40,7 +40,10 @@ Kaptan Lyra, bu eski medeniyetin bilgilerini ve teknolojilerini keşfederek, gal
 Sprint içi puan değerlendirmesi 65 olarak belirlenmiştir.
 -Puan tamamlama mantığı: proje boyunca tamamlanması gereken backlog puanı 230’dur.  İlk sprint için bitirilmesi istenen puan sayısı 65 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 
-- **Daily scrum:** Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. 
+- **Daily scrum:** Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
+- **Sprint 1 Board:**
+  ![image](https://github.com/user-attachments/assets/5bf90536-4d06-4892-97dc-b3999f7a6a41)
+
 - **Toplantı ve Whatsapp ScreenShotları:**
 https://imgur.com/a/bootcamp-ss1-NOTUHHN
 
