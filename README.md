@@ -39,7 +39,11 @@ Kaptan Lyra, bu eski medeniyetin bilgilerini ve teknolojilerini keşfederek, gal
 # SPRINT 1
 Sprint içi puan değerlendirmesi 65 olarak belirlenmiştir.
 -Puan tamamlama mantığı: proje boyunca tamamlanması gereken backlog puanı 230’dur.  İlk sprint için bitirilmesi istenen puan sayısı 65 olarak belirlenmiştir ve hedefe ulaşılmıştır.
--Daily scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. 
+
+- **Daily scrum:** Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır.
+- **Sprint 1 Board:**
+  ![image](https://github.com/user-attachments/assets/5bf90536-4d06-4892-97dc-b3999f7a6a41)
+
 - **Toplantı ve Whatsapp ScreenShotları:**
 https://imgur.com/a/bootcamp-ss1-NOTUHHN
 
@@ -55,3 +59,35 @@ https://imgur.com/a/bootcamp-ss1-NOTUHHN
 -	Rol dağılımı yapılmıştır.
 -	Sürecin genel gidişatı belirlenmiştir.
 -	Eklenecek sahneler belirlenmiş, kod ve tasarım grupları ayrılmıştır.
+
+  # SPRINT 2
+Sprint içi puan değerlendirmesi 85 olarak belirlenmiştir.
+- İkinci sprint için bitirilmesi istenen puan sayısı 85 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- **Daily scrum:** Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. Takım üyelerinin müsaitlik durumlarına göre toplantılar ayarlanmıştır.
+- **Ürün Durumu Görselleri:** ![image](https://github.com/user-attachments/assets/15c97ba0-9fa0-4cbf-acb8-45aa48ba36c9)
+  ![image](https://github.com/user-attachments/assets/7d9fcaa0-0ccd-49c2-ac2d-423acddf7cbc)
+  ![image](https://github.com/user-attachments/assets/932927a7-eab6-43e0-bca9-6499a32d9862)
+
+
+   
+- **Sprint 2 Board Update:** ![image](https://github.com/user-attachments/assets/c2f78410-ec78-4f31-a8c8-3d31b7a8b5b2)
+  
+
+
+- **Toplantı ve Whatsapp ScreenShotları:**
+https://imgur.com/a/bootcampss2-OdDaoS4
+
+
+**Sprint Review**: 
+-	Oyun hikayesi ve ismi netleşmiştir.
+-	Kodlama ve tasarım kısmına başlanmıştır.
+-	Bulmacaların tarzı kararlaştırılmıştır.
+
+**Sprint Review Katılımcıları:** Elif Dağlar, Elsever Khalilov, Emir Çelik, Ekrem Taha Ünlü, Eda Sancak
+
+**Sprint Retrospective**:
+-	Kodlama ekibi ve tasarım ekibi toplantıları yapılmıştır.
+-	Tasarım kısmı için tekrar görev dağılımı yapılmıştır.
+-	Bir sonraki sprinte kadar yapılacaklar planlanmıştır.
+-	İki sahne tasarımı bitmiş kalan 2 tanesi 3.sprinte bırakılmıştır.
+
