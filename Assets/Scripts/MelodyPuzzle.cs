@@ -9,6 +9,7 @@ public class MelodyPuzzle : MonoBehaviour
     private List<AudioClip> currentSequence = new List<AudioClip>(); // Geçerli melodi sýrasý
     private List<AudioClip> playerSequence = new List<AudioClip>(); // Oyuncunun girdiði sýra
     public List<Crystal> crystals; // Sahnedeki kristaller
+    public AudioSource audioSource;
     public GameObject startButton; // Baþlama butonu
     public TMP_Text resultText; // Sonuç metni
     public int currentMelodyIndex = 0; // Geçerli melodi indeksi
@@ -54,7 +55,8 @@ public class MelodyPuzzle : MonoBehaviour
     void PlayMelodySequence()
     {
         currentSequence.Clear(); // Geçerli sýrayý temizler
-        for (int i = 0; i <= currentMelodyIndex; i++)
+        currentSequence.Add(melodySequence[0]);
+        for (int i = 1; i <= currentMelodyIndex; i++)
         {
             currentSequence.Add(melodySequence[i]); // Melodi sýrasýný ekler
         }
@@ -71,7 +73,7 @@ public class MelodyPuzzle : MonoBehaviour
                 if (crystal.crystalSound == clip)
                 {
                     crystal.PlaySound();
-                    yield return new WaitForSeconds(clip.length + 0.5f); // Ses uzunluðu kadar bekler
+                    yield return new WaitForSeconds(clip.length); // Ses uzunluðu kadar bekler
                 }
             }
         }
@@ -98,6 +100,7 @@ public class MelodyPuzzle : MonoBehaviour
                 return;
             }
         }
+        StopAllSounds();
         currentMelodyIndex++; // Doðruysa bir sonraki melodiyi çalar
         if (currentMelodyIndex == melodySequence.Count) // Tüm melodileri doðru bildikten sonra biter
         {
@@ -105,7 +108,7 @@ public class MelodyPuzzle : MonoBehaviour
         }
         else
         {
-            PlayMelodySequence();
+            StartCoroutine(WaitAndPlayNextMelody()); // Bekleme süresi eklenir
         }
     }
 
@@ -113,5 +116,16 @@ public class MelodyPuzzle : MonoBehaviour
     {
         resultText.gameObject.SetActive(true); // Sonuç metnini gösterir
         resultText.text = "Tebrikler, bulmacayý tamamladýnýz!";
+    }
+
+    void StopAllSounds()
+    {
+        audioSource.Stop();
+    }
+
+    IEnumerator WaitAndPlayNextMelody()
+    {
+        yield return new WaitForSeconds(3f); // 2 saniye bekler
+        PlayMelodySequence();
     }
 }
