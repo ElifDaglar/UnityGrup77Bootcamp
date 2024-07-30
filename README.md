@@ -23,19 +23,13 @@ Lyra’s Journey, platform ve bulmaca oyununun birleşimidir. Oyuncular, platfor
 -	Strateji ve Mantık Odaklı Oyuncular
 -	Görsel ve Tematik Atmosfer Arayanlar
 # Oyun Hikayesi
-Kaptan Lyra, galaksinin en cesur ve meraklı kaşifi olarak biliniyordu. Bir gün, uzayın derinliklerinde kaybolmuş bir sinyal aldı. Bu sinyalin kaynağı, kayıp gezegenler sistemi olarak bilinen bir yerdi. Lyra, hemen bu gizemli sinyalin peşine düşmeye karar verdi.
+Neonix Gezegeninde
 
-İlk durağı, Neonix gezegeniydi. Neonix, parlak neon ışıklarıyla kaplıydı ve yerçekimi neredeyse yok denecek kadar azdı. Lyra, burada ışık bulmacalarını çözerek ilerledi. Neon ışıklarını doğru sırayla yakmak, ona gezegenin derinliklerine giden yolu açtı. Fakat her adımında, farklı ışık kombinasyonları ve sıfır yerçekimiyle başa çıkmak zorundaydı.
+Kaptan Lyra, kayıp bir sinyalin izini sürerken Neonix gezegenine indi. Neonix, parlak neon ışıklarıyla kaplı ve yerçekimi neredeyse yok denecek kadar azdı. Lyra, burada ilerlemek için ışık bulmacalarını çözmek zorundaydı. 
 
-Bir sonraki gezegen, Floralis’ti. Floralis, dev bitkiler ve canlı çiçeklerle kaplıydı. Burada, bitkilerin şifreli yapraklarını çözmesi gerekiyordu. Her yaprak, farklı bir bulmacayı temsil ediyordu ve bu bulmacalar çözülmeden bitkiler geçit vermiyordu. Lyra, yaprakların desenlerini inceleyerek, doğru kombinasyonları buldu ve geçiş yollarını açtı.
+Her adımında, doğru sırayla neon ışıklarını yakarak ilerledi. Fakat ışık kombinasyonları karmaşıktı ve yerçekimsiz ortamda hareket etmek zordu. Lyra, dikkatle ışıkları analiz etti ve doğru dizilimleri buldu. Bu bulmacaları çözdükçe, gezegenin derinliklerine indi.
 
-Üçüncü gezegen, Kristallum’du. Bu gezegen, dev kristallerle kaplıydı ve her kristal farklı bir tını çıkarıyordu. Lyra, kristallerin melodilerini çözerek, gezegenin derinliklerine inen yolu buldu. Fakat bu sefer, kristallerin çıkardığı seslerin doğru kombinasyonlarını bulması gerekiyordu. Melodileri doğru sırayla çaldığında, kristal kapılar ona geçit verdi.
-
-Son durak, Mekanika gezegeniydi. Mekanika, dev mekanik yapılarla doluydu ve burada, çeşitli makineleri doğru sırayla çalıştırarak ilerlemesi gerekiyordu. Lyra, her bir makinenin nasıl çalıştığını çözerek, gezegenin merkezine ulaştı.
-
-Her gezegen, Lyra’ya farklı zorluklar ve bulmacalar sundu. Fakat her birini çözdüğünde, kayıp sinyalin kaynağına biraz daha yaklaştı. Sonunda, tüm gezegenleri geçip, sinyalin kaynağına ulaştığında, kayıp bir medeniyetin izlerine rastladı. Bu medeniyet, galaksinin en eski ve en bilge uygarlıklarından biriydi ve sinyali, kendilerini keşfedecek birini bulmak için yollamışlardı.
-
-Kaptan Lyra, bu eski medeniyetin bilgilerini ve teknolojilerini keşfederek, galaksinin sırlarını çözme yolunda büyük bir adım attı. Her gezegenin farklılıkları, onu daha da güçlü ve bilge kılmıştı.
+Sonunda, sinyalin kaynağına ulaştı. Neonix'in merkezinde, kayıp bir medeniyetin izlerine rastladı. Bu keşif, Lyra'nın galaksinin sırlarını çözme yolunda büyük bir adım atmasını sağladı. Neonix'in zorlukları, onu daha da güçlü ve bilge kılmıştı.
 # SPRINT 1
 Sprint içi puan değerlendirmesi 65 olarak belirlenmiştir.
 -Puan tamamlama mantığı: proje boyunca tamamlanması gereken backlog puanı 230’dur.  İlk sprint için bitirilmesi istenen puan sayısı 65 olarak belirlenmiştir ve hedefe ulaşılmıştır.
