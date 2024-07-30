@@ -60,7 +60,7 @@ Sprint içi puan değerlendirmesi 85 olarak belirlenmiştir.
 - **Daily scrum:** Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. Takım üyelerinin müsaitlik durumlarına göre toplantılar ayarlanmıştır.
 - **Ürün Durumu Görselleri:** ![image](https://github.com/user-attachments/assets/15c97ba0-9fa0-4cbf-acb8-45aa48ba36c9)
   ![image](https://github.com/user-attachments/assets/7d9fcaa0-0ccd-49c2-ac2d-423acddf7cbc)
-  ![image](https://github.com/user-attachments/assets/932927a7-eab6-43e0-bca9-6499a32d9862)
+  
 
 
    
@@ -84,4 +84,36 @@ https://imgur.com/a/bootcampss2-OdDaoS4
 -	Tasarım kısmı için tekrar görev dağılımı yapılmıştır.
 -	Bir sonraki sprinte kadar yapılacaklar planlanmıştır.
 -	İki sahne tasarımı bitmiş kalan 2 tanesi 3.sprinte bırakılmıştır.
+
+# SPRINT 3
+Sprint içi puan değerlendirmesi 80 olarak belirlenmiştir.
+- İkinci sprint için bitirilmesi istenen puan sayısı 80 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- Daily scrum: Whatsapp ve Discord üzerinden görüşmeler sağlanmıştır. Takım üyelerinin müsaitlik durumlarına göre toplantılar ayarlanmıştır.
+- Ürün Durumu Görselleri:![WhatsApp Görsel 2024-07-30 saat 13 44 50_78c24d02](https://github.com/user-attachments/assets/002ba71a-3845-4ee4-ab5d-d88061ed4b2d)
+![WhatsApp Görsel 2024-07-30 saat 13 44 50_8da3d583](https://github.com/user-attachments/assets/10841124-e7a6-4cb3-94db-814d3b26a1ad)
+![image](https://github.com/user-attachments/assets/15c97ba0-9fa0-4cbf-acb8-45aa48ba36c9)
+
+
+
+- **Toplantı ve Whatsapp ScreenShotları:**
+https://imgur.com/a/bxvd0VH
+
+- Sprint 3 Board Update:
+![image](https://github.com/user-attachments/assets/71856577-1945-4b68-b549-d9ce1b37ae6a)
+
+
+
+**Sprint Review**: 
+-	Kod ve Tasarım kısmı birleştirilmiştir.
+-	Bulmacaya karar verilmiştir.
+-	Proje tamamlanmıştır.
+
+**Sprint Review Katılımcıları:** Elif Dağlar, Elsever Khalilov, Emir Çelik, Ekrem Taha Ünlü, Eda Sancak
+
+**Sprint Retrospective**:
+-	Kodlama ekibi ve tasarım ekibi toplantıları yapılmıştır.
+-	Tasarım kısmındaki aksaklıklardan dolayı oyun tek sahneye düşmüştür.
+-	Hikâye yeniden düzenlenmiştir.
+-	Gelecekteki projeler için iletişimde kalınacağı konuşulmuştur. 
+
 
